@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.ff841303.chunk.css",
-    "main.js": "/static/js/main.3c9b9da1.chunk.js",
-    "main.js.map": "/static/js/main.3c9b9da1.chunk.js.map",
+    "main.css": "/static/css/main.809965de.chunk.css",
+    "main.js": "/static/js/main.b17310a1.chunk.js",
+    "main.js.map": "/static/js/main.b17310a1.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c70048c8.js",
     "runtime-main.js.map": "/static/js/runtime-main.c70048c8.js.map",
     "static/css/2.be5ca0bd.chunk.css": "/static/css/2.be5ca0bd.chunk.css",
-    "static/js/2.634ea181.chunk.js": "/static/js/2.634ea181.chunk.js",
-    "static/js/2.634ea181.chunk.js.map": "/static/js/2.634ea181.chunk.js.map",
+    "static/js/2.95070d9e.chunk.js": "/static/js/2.95070d9e.chunk.js",
+    "static/js/2.95070d9e.chunk.js.map": "/static/js/2.95070d9e.chunk.js.map",
     "89333bbfef417f2331e8.worker.js": "/89333bbfef417f2331e8.worker.js",
     "89333bbfef417f2331e8.worker.js.LICENSE.txt": "/89333bbfef417f2331e8.worker.js.LICENSE.txt",
     "89333bbfef417f2331e8.worker.js.map": "/89333bbfef417f2331e8.worker.js.map",
     "index.html": "/index.html",
-    "precache-manifest.3b25c67333ca2b65d11e937fafecd1cb.js": "/precache-manifest.3b25c67333ca2b65d11e937fafecd1cb.js",
+    "precache-manifest.28c4dc94dac6b7969058f1da8718aa88.js": "/precache-manifest.28c4dc94dac6b7969058f1da8718aa88.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.be5ca0bd.chunk.css.map": "/static/css/2.be5ca0bd.chunk.css.map",
-    "static/css/main.ff841303.chunk.css.map": "/static/css/main.ff841303.chunk.css.map",
-    "static/js/2.634ea181.chunk.js.LICENSE.txt": "/static/js/2.634ea181.chunk.js.LICENSE.txt",
+    "static/css/main.809965de.chunk.css.map": "/static/css/main.809965de.chunk.css.map",
+    "static/js/2.95070d9e.chunk.js.LICENSE.txt": "/static/js/2.95070d9e.chunk.js.LICENSE.txt",
     "static/media/1.png": "/static/media/1.bb688b9c.png",
     "static/media/10.png": "/static/media/10.e73f1af0.png",
     "static/media/11.png": "/static/media/11.ea78b788.png",
@@ -39,6 +39,7 @@
     "static/media/fuuast-cover.png": "/static/media/fuuast-cover.6f4c6acb.png",
     "static/media/google-analytics.svg": "/static/media/google-analytics.a85df3bf.svg",
     "static/media/heroku.svg": "/static/media/heroku.59ddfcb8.svg",
+    "static/media/how-to-load-images-progressively-in-react.jpeg": "/static/media/how-to-load-images-progressively-in-react.91d2c100.jpeg",
     "static/media/jquery.svg": "/static/media/jquery.0fb1be87.svg",
     "static/media/jwt.svg": "/static/media/jwt.6c862474.svg",
     "static/media/material-ui.svg": "/static/media/material-ui.cd849ab9.svg",
@@ -54,8 +55,8 @@
   "entrypoints": [
     "static/js/runtime-main.c70048c8.js",
     "static/css/2.be5ca0bd.chunk.css",
-    "static/js/2.634ea181.chunk.js",
-    "static/css/main.ff841303.chunk.css",
-    "static/js/main.3c9b9da1.chunk.js"
+    "static/js/2.95070d9e.chunk.js",
+    "static/css/main.809965de.chunk.css",
+    "static/js/main.b17310a1.chunk.js"
   ]
 }
