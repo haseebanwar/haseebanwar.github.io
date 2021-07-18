@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.9c56ff20.chunk.css",
-    "main.js": "/static/js/main.92a2d0a4.chunk.js",
-    "main.js.map": "/static/js/main.92a2d0a4.chunk.js.map",
+    "main.js": "/static/js/main.4e068279.chunk.js",
+    "main.js.map": "/static/js/main.4e068279.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
     "static/css/2.be5ca0bd.chunk.css": "/static/css/2.be5ca0bd.chunk.css",
@@ -12,7 +12,7 @@
     "b4961ab195d4764bf137.worker.js.LICENSE.txt": "/b4961ab195d4764bf137.worker.js.LICENSE.txt",
     "b4961ab195d4764bf137.worker.js.map": "/b4961ab195d4764bf137.worker.js.map",
     "index.html": "/index.html",
-    "precache-manifest.305addb1e35586237ce681b77f5e4bd8.js": "/precache-manifest.305addb1e35586237ce681b77f5e4bd8.js",
+    "precache-manifest.5d7fb2eff0d22c49ea823f252628f16f.js": "/precache-manifest.5d7fb2eff0d22c49ea823f252628f16f.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.be5ca0bd.chunk.css.map": "/static/css/2.be5ca0bd.chunk.css.map",
     "static/css/main.9c56ff20.chunk.css.map": "/static/css/main.9c56ff20.chunk.css.map",
@@ -26,7 +26,6 @@
     "static/media/2.png": "/static/media/2.fa83b798.png",
     "static/media/3.png": "/static/media/3.e49e6f63.png",
     "static/media/3.jpg": "/static/media/3.e8ac4e0c.jpg",
-    "static/media/371436.svg": "/static/media/371436.f88188d3.svg",
     "static/media/4.png": "/static/media/4.f8c31f75.png",
     "static/media/5.png": "/static/media/5.83909746.png",
     "static/media/6.png": "/static/media/6.ea834b99.png",
@@ -56,6 +55,7 @@
     "static/media/pt-cover.png": "/static/media/pt-cover.dcc091bc.png",
     "static/media/redux.svg": "/static/media/redux.85772647.svg",
     "static/media/sass.svg": "/static/media/sass.b446ca5a.svg",
+    "static/media/segment.svg": "/static/media/segment.f88188d3.svg",
     "static/media/socket-io.svg": "/static/media/socket-io.d319f3af.svg",
     "static/media/thrive-cover.png": "/static/media/thrive-cover.0e596516.png",
     "static/media/twilio.svg": "/static/media/twilio.d811cd46.svg",
@@ -67,6 +67,6 @@
     "static/css/2.be5ca0bd.chunk.css",
     "static/js/2.9f0b0abb.chunk.js",
     "static/css/main.9c56ff20.chunk.css",
-    "static/js/main.92a2d0a4.chunk.js"
+    "static/js/main.4e068279.chunk.js"
   ]
 }
