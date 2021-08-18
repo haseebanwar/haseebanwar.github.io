@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.9c56ff20.chunk.css",
-    "main.js": "/static/js/main.4e068279.chunk.js",
-    "main.js.map": "/static/js/main.4e068279.chunk.js.map",
+    "main.js": "/static/js/main.87002c11.chunk.js",
+    "main.js.map": "/static/js/main.87002c11.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
     "static/css/2.be5ca0bd.chunk.css": "/static/css/2.be5ca0bd.chunk.css",
-    "static/js/2.9f0b0abb.chunk.js": "/static/js/2.9f0b0abb.chunk.js",
-    "static/js/2.9f0b0abb.chunk.js.map": "/static/js/2.9f0b0abb.chunk.js.map",
+    "static/js/2.5509713e.chunk.js": "/static/js/2.5509713e.chunk.js",
+    "static/js/2.5509713e.chunk.js.map": "/static/js/2.5509713e.chunk.js.map",
     "b4961ab195d4764bf137.worker.js": "/b4961ab195d4764bf137.worker.js",
     "b4961ab195d4764bf137.worker.js.LICENSE.txt": "/b4961ab195d4764bf137.worker.js.LICENSE.txt",
     "b4961ab195d4764bf137.worker.js.map": "/b4961ab195d4764bf137.worker.js.map",
     "index.html": "/index.html",
-    "precache-manifest.5d7fb2eff0d22c49ea823f252628f16f.js": "/precache-manifest.5d7fb2eff0d22c49ea823f252628f16f.js",
+    "precache-manifest.b4bda25338f6b81eea9cb3d92c3c63d7.js": "/precache-manifest.b4bda25338f6b81eea9cb3d92c3c63d7.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.be5ca0bd.chunk.css.map": "/static/css/2.be5ca0bd.chunk.css.map",
     "static/css/main.9c56ff20.chunk.css.map": "/static/css/main.9c56ff20.chunk.css.map",
-    "static/js/2.9f0b0abb.chunk.js.LICENSE.txt": "/static/js/2.9f0b0abb.chunk.js.LICENSE.txt",
+    "static/js/2.5509713e.chunk.js.LICENSE.txt": "/static/js/2.5509713e.chunk.js.LICENSE.txt",
     "static/media/1.png": "/static/media/1.bb688b9c.png",
     "static/media/1.jpg": "/static/media/1.ec65622a.jpg",
     "static/media/10.png": "/static/media/10.e73f1af0.png",
@@ -32,8 +32,8 @@
     "static/media/7.png": "/static/media/7.90e1a628.png",
     "static/media/8.png": "/static/media/8.f2936264.png",
     "static/media/9.png": "/static/media/9.c2f45ffa.png",
-    "static/media/CV-Haseeb-Web.pdf": "/static/media/CV-Haseeb-Web.d4446910.pdf",
-    "static/media/CV-Haseeb.pdf": "/static/media/CV-Haseeb.187c7653.pdf",
+    "static/media/HASEEB-ANWAR-Web.pdf": "/static/media/HASEEB-ANWAR-Web.187962af.pdf",
+    "static/media/HASEEB-ANWAR.pdf": "/static/media/HASEEB-ANWAR.ca8966da.pdf",
     "static/media/avatar.jpg": "/static/media/avatar.d08535fc.jpg",
     "static/media/App.scss": "/static/media/bg.8c4b86ed.jpg",
     "static/media/colzone-cover.png": "/static/media/colzone-cover.bdd2be4f.png",
@@ -65,8 +65,8 @@
   "entrypoints": [
     "static/js/runtime-main.19ccc7f6.js",
     "static/css/2.be5ca0bd.chunk.css",
-    "static/js/2.9f0b0abb.chunk.js",
+    "static/js/2.5509713e.chunk.js",
     "static/css/main.9c56ff20.chunk.css",
-    "static/js/main.4e068279.chunk.js"
+    "static/js/main.87002c11.chunk.js"
   ]
 }
