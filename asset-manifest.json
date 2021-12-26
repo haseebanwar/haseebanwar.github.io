@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.9c56ff20.chunk.css",
-    "main.js": "/static/js/main.4f2f15ed.chunk.js",
-    "main.js.map": "/static/js/main.4f2f15ed.chunk.js.map",
+    "main.css": "/static/css/main.dbee528c.chunk.css",
+    "main.js": "/static/js/main.cd17e67b.chunk.js",
+    "main.js.map": "/static/js/main.cd17e67b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
     "static/css/2.be5ca0bd.chunk.css": "/static/css/2.be5ca0bd.chunk.css",
@@ -12,10 +12,10 @@
     "b4961ab195d4764bf137.worker.js.LICENSE.txt": "/b4961ab195d4764bf137.worker.js.LICENSE.txt",
     "b4961ab195d4764bf137.worker.js.map": "/b4961ab195d4764bf137.worker.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7533215f590659d6ba15446600d60ced.js": "/precache-manifest.7533215f590659d6ba15446600d60ced.js",
+    "precache-manifest.5457119a99dbe4cb3a93690b771089de.js": "/precache-manifest.5457119a99dbe4cb3a93690b771089de.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.be5ca0bd.chunk.css.map": "/static/css/2.be5ca0bd.chunk.css.map",
-    "static/css/main.9c56ff20.chunk.css.map": "/static/css/main.9c56ff20.chunk.css.map",
+    "static/css/main.dbee528c.chunk.css.map": "/static/css/main.dbee528c.chunk.css.map",
     "static/js/2.ad2c2029.chunk.js.LICENSE.txt": "/static/js/2.ad2c2029.chunk.js.LICENSE.txt",
     "static/media/1.png": "/static/media/1.bb688b9c.png",
     "static/media/1.jpg": "/static/media/1.ec65622a.jpg",
@@ -34,7 +34,7 @@
     "static/media/9.png": "/static/media/9.c2f45ffa.png",
     "static/media/HASEEB-ANWAR-Web.pdf": "/static/media/HASEEB-ANWAR-Web.1c15aec3.pdf",
     "static/media/HASEEB-ANWAR.pdf": "/static/media/HASEEB-ANWAR.15d001b5.pdf",
-    "static/media/avatar.jpg": "/static/media/avatar.d08535fc.jpg",
+    "static/media/avatar.webp": "/static/media/avatar.a36132f2.webp",
     "static/media/App.scss": "/static/media/bg.8c4b86ed.jpg",
     "static/media/colzone-cover.png": "/static/media/colzone-cover.bdd2be4f.png",
     "static/media/fuuast-cover.png": "/static/media/fuuast-cover.6f4c6acb.png",
@@ -68,7 +68,7 @@
     "static/js/runtime-main.19ccc7f6.js",
     "static/css/2.be5ca0bd.chunk.css",
     "static/js/2.ad2c2029.chunk.js",
-    "static/css/main.9c56ff20.chunk.css",
-    "static/js/main.4f2f15ed.chunk.js"
+    "static/css/main.dbee528c.chunk.css",
+    "static/js/main.cd17e67b.chunk.js"
   ]
 }
